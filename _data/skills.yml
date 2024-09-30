@@ -1,0 +1,437 @@
+# _data/skills.yml
+
+- category: "Management Skills"
+  skills:
+    - name: "Accept Personal Responsibility for Work"
+      strengths:
+        - "Full accountability for tasks and outcomes"
+        - "Ensures projects meet high standards of quality and reliability"
+      achievements:
+        - title: "Automated ADDLIB Forecast Calculator (2021)"
+          situation: "In 2021, the existing ADDLIB forecast calculator was cumbersome and time-consuming for advisors."
+          action: "Redesigned the calculator using advanced Excel techniques and collaborated with the ADDLIB team to ensure seamless integration."
+          result: "The new automated tool significantly reduced processing time, received positive feedback from users, and improved overall forecast accuracy."
+    - name: "Develop Controls to Manage Risks"
+      strengths:
+        - "Identifies potential risks"
+        - "Implements effective strategies to mitigate them"
+      achievements:
+        - title: "Risk Assessment and Control Development for DFS"
+          situation: "Liberty Life required a comprehensive risk assessment to comply with the model risk policy for DFS."
+          action: "Conducted thorough evaluations of our pricing models, implemented validation processes, and collaborated with stakeholders to address potential vulnerabilities."
+          result: "Ensured that all models were compliant, reducing the likelihood of governance failures and enhancing the integrity of our risk management framework."
+    - name: "Manage Projects Effectively"
+      strengths:
+        - "Oversees project timelines, resources, and deliverables"
+        - "Demonstrates strong organisational and leadership skills"
+      achievements:
+        - title: "Strategic Blueprint for Risk Business Initiatives (2023)"
+          situation: "In 2023, the organisation needed a strategic blueprint to guide future risk business initiatives."
+          action: "Defined the product architecture, made key technical decisions, and facilitated stakeholder meetings. Conducted comprehensive data analyses and utilised Excel to integrate and compare product features."
+          result: "The project was successfully completed with the blueprint agreed upon by all stakeholders, laying a strong foundation for future developments and ensuring alignment with our strategic objectives."
+    - name: "Manage Other People"
+      strengths:
+        - "Leads and motivates team members"
+        - "Fosters a collaborative and supportive work environment"
+      achievements:
+        - title: "Team Leadership During Manager's Leave"
+          situation: "My manager was on extended leave, leaving a gap in leadership within the team."
+          action: "Organised regular team meetings, provided guidance on project tasks, and ensured that all deliverables were met on time."
+          result: "The team maintained high productivity levels, projects were completed successfully, and team morale remained high, showcasing my capability to lead under pressure."
+    - name: "Manage Own Time Effectively"
+      strengths:
+        - "Prioritises tasks and manages time efficiently"
+        - "Meets deadlines and maintains high productivity levels"
+      achievements:
+        - title: "Concurrent Management of ELP Policy Review and DebiCheck Model Development (2022)"
+          situation: "In 2022, I managed both the ELP policy document review and the DebiCheck projection model development concurrently."
+          action: "Prioritised tasks based on urgency and importance, utilised project management tools to track progress, and allocated specific time blocks for each project."
+          result: "Both projects were completed on schedule, received commendations for their quality, and contributed significantly to the department's objectives."
+    - name: "Plan a Workstream"
+      strengths:
+        - "Organises and sequences tasks to streamline workflows"
+        - "Optimises overall productivity and ensures seamless project execution"
+      achievements:
+        - title: "Workstream Planning for HIV+ Offering and Allfinanz Rulebook Replication (2023)"
+          situation: "In 2023, I was involved in the HIV+ offering and the Allfinanz rulebook replication projects, both requiring coordinated efforts across multiple teams."
+          action: "Developed a detailed workstream plan by mapping out each task, assigning responsibilities, and establishing clear timelines for both projects."
+          result: "Projects were executed smoothly, with enhanced productivity and minimal delays, demonstrating my ability to plan and manage complex workstreams effectively."
+
+- category: "Professional Skills"
+  skills:
+    - name: "Accept Professional Responsibility and Accountability"
+      strengths:
+        - "Upholds professional standards"
+        - "Ensures ethical practices and compliance with industry regulations"
+      achievements:
+        - title: "Closure of Cancer Only Product Compliance"
+          situation: "The closure of the Cancer Only product required careful handling to mitigate mortality risk exposure."
+          action: "Collaborated with legal and compliance teams, drafted detailed approval documents, and facilitated the decision-making process."
+          result: "The product was successfully closed with full compliance, reducing our risk exposure and demonstrating my commitment to professional responsibility and accountability."
+    - name: "Understand and Comply with Regulatory Requirements"
+      strengths:
+        - "Ensures adherence to relevant laws and industry regulations"
+        - "Maintains compliance and integrity within the organisation"
+      achievements:
+        - title: "ELP Policy Documentation Update (2022)"
+          situation: "Regulatory changes in 2022 necessitated updates to our ELP policy documentation."
+          action: "Conducted comprehensive reviews, engaged with stakeholders including Munich Re, and facilitated the approval process with legal and compliance teams."
+          result: "The updated policy documents were approved and implemented successfully, ensuring our products remained compliant and competitive in the market."
+
+- category: "Technical Skills"
+  skills:
+    - name: "Analyse and Validate Results from a Model"
+      strengths:
+        - "Evaluates model outputs for accuracy and reliability"
+        - "Supports informed decision-making processes"
+      achievements:
+        - title: "DebiCheck Projection Model Development"
+          situation: "There was a need to accurately forecast transaction costs to inform strategic decisions in 2022."
+          action: "Utilised advanced Excel functions to develop the model, conducted rigorous validations to ensure data accuracy, and collaborated with the finance team to interpret the results."
+          result: "The DebiCheck projection model provided reliable forecasts that informed key financial decisions, enhancing the department's strategic planning capabilities."
+    - name: "Apply Actuarial Principles and Methods to Solve Defined and Routine Problems"
+      strengths:
+        - "Utilises actuarial techniques to address and resolve specific, structured issues"
+        - "Contributes to risk management and product development"
+      achievements:
+        - title: "Premium Calculation Model Development (2021)"
+          situation: "In 2021, servicing issues required precise premium calculations to reflect policy changes accurately."
+          action: "Designed and implemented Excel-based models that automated the calculation process, ensuring accuracy and efficiency."
+          result: "The models streamlined premium calculations, reduced manual errors, and improved the overall servicing process."
+    - name: "Build Models Under Supervision"
+      strengths:
+        - "Develops predictive models with guidance"
+        - "Ensures models meet project requirements and standards"
+      achievements:
+        - title: "DebiCheck Transaction Cost Model (2022)"
+          situation: "The project required a reliable model to forecast DFS and DLIS transaction costs in 2022."
+          action: "Under the guidance of my manager, utilised technical skills to construct the DebiCheck projection model, incorporating necessary variables and validating its performance through testing."
+          result: "The successful development of the DebiCheck projection model provided valuable insights for financial planning."
+    - name: "Validate Data"
+      strengths:
+        - "Ensures data integrity and accuracy through thorough validation processes"
+        - "Supports reliable analyses and decision-making"
+      achievements:
+        - title: "Premium Calculations Validation (2022)"
+          situation: "Accurate premium calculations were essential to maintain financial integrity and compliance in 2022."
+          action: "Meticulously reviewed the calculations, cross-referenced data sources, and collaborated with the reinsurance team to verify accuracy."
+          result: "Validated calculations ensured correct premium charges, maintained compliance with regulatory standards, and upheld the company's financial integrity."
+    - name: "Proficient in VBA and Python"
+      strengths:
+        - "Expertise in programming languages for automation and data analysis"
+        - "Enhances job performance and project outcomes"
+      achievements:
+        - title: "Automation and Data Processing Enhancements (2022)"
+          situation: "The need for automation and advanced data analysis tools was identified to improve efficiency in 2022."
+          action: "Completed courses in VBA and Python, and applied skills to create automated Excel macros and streamline data processing tasks."
+          result: "Automation reduced manual workload, increased accuracy, and allowed for more complex data analyses."
+
+- category: "Information Technology Skills"
+  skills:
+    - name: "Use a Variety of Information Communications Technology Effectively in the Workplace"
+      strengths:
+        - "Leverages diverse IT tools and platforms to enhance productivity"
+        - "Enhances collaboration and operational efficiency"
+      achievements:
+        - title: "Power BI Model Development (2023)"
+          situation: "In 2023, there was a need for advanced data visualization tools to support strategic initiatives."
+          action: "Utilised Power BI to design interactive dashboards, integrated data from various sources, and ensured data accuracy through rigorous testing."
+          result: "Power BI models provided actionable insights, facilitated data-driven decisions, and significantly improved the accessibility and interpretation of key metrics for stakeholders."
+
+- category: "Communication Skills"
+  skills:
+    - name: "Communicate in Writing to a Range of Audiences"
+      strengths:
+        - "Crafts clear and effective written communications tailored to diverse audiences"
+        - "Enhances understanding and engagement"
+      achievements:
+        - title: "GPAC Documentation for Cancer Only Product Closure (2023)"
+          situation: "In 2023, the closure of the Cancer Only product required comprehensive documentation to secure approvals from various committees."
+          action: "Compiled project data, articulated the rationale behind decisions, and ensured the documentation met all regulatory and compliance standards."
+          result: "Approval documents were successfully sanctioned, facilitating the closure of the Cancer Only product and demonstrating effective communication of complex information in writing."
+    - name: "Communicate Using a Range of Communication Media"
+      strengths:
+        - "Utilises various platforms to convey information effectively across different mediums"
+        - "Ensures clear and consistent messaging"
+      achievements:
+        - title: "Liberty Flexi Life Product Launch Communications (2023)"
+          situation: "In 2023, introducing new products required clear and consistent communication across multiple channels."
+          action: "Crafted concise SMS messages for customers, developed comprehensive training manuals, and led interactive training sessions to educate teams on new product features."
+          result: "Communications were well-received, leading to smooth product launches and enhanced team understanding."
+    - name: "Communicate Orally to a Range of Audiences"
+      strengths:
+        - "Delivers engaging and informative oral presentations to different stakeholder groups"
+        - "Facilitates effective dialogue and decision-making"
+      achievements:
+        - title: "GPAC Documentation Presentation (2021)"
+          situation: "In 2021, the GPAC documentation on the ratio approach needed to be presented to secure stakeholder approval."
+          action: "Prepared detailed presentation materials, rehearsed to ensure clarity, and utilised visual aids to enhance understanding during the presentation."
+          result: "Effectively conveyed necessary information, facilitated informed decision-making, and secured stakeholder approval."
+
+- category: "Business Acumen"
+  skills:
+    - name: "Demonstrate Awareness of Budgetary Constraints"
+      strengths:
+        - "Manages projects and resources within financial limits"
+        - "Ensures cost-effective operations and optimises budget utilisation"
+      achievements:
+        - title: "Premium Pricing Analysis Model (2022)"
+          situation: "In 2022, inconsistent pricing of premiums was affecting profit margins."
+          action: "Designed an Excel-based analysis tool that calculated the influence of profit margins on premiums, identifying areas for adjustment."
+          result: "Provided actionable insights that led to more consistent premium pricing, enhancing profitability."
+    - name: "Find Solutions that Add Business Value"
+      strengths:
+        - "Identifies and implements strategies that enhance organisational value"
+        - "Drives business growth through strategic initiatives"
+      achievements:
+        - title: "Liberty Flexi Life Digital Launch (2023)"
+          situation: "In 2023, Liberty Life aimed to expand its product offerings through digital channels to enhance customer experience and market reach."
+          action: "Coordinated with various departments, developed customer-centric scripts, and ensured compliance with regulatory standards. Created an Excel-based tool to cross-reference and align script content with product specifications."
+          result: "Successful launch increased market share and enhanced customer experience, demonstrating ability to find and implement solutions that add significant business value."
+
+- category: "Judgement Skills"
+  skills:
+    - name: "Prepare Actuarial Reports Under Supervision"
+      strengths:
+        - "Compiles detailed actuarial reports with guidance"
+        - "Ensures accuracy and compliance with standards"
+      achievements:
+        - title: "GPAC Documentation Preparation (2021)"
+          situation: "In 2021, the closure of the Cancer Only product required comprehensive actuarial documentation."
+          action: "Conducted data analysis, drafted detailed reports, and collaborated with senior actuaries to refine the documentation."
+          result: "GPAC documentation was approved and implemented, providing a robust framework for policy amendments."
+    - name: "Make Decisions and Take Responsibility for Actions"
+      strengths:
+        - "Exercises sound judgement in decision-making"
+        - "Demonstrates reliability and integrity in high-stakes situations"
+      achievements:
+        - title: "Closure of Cancer Only Product (2023)"
+          situation: "In 2023, the closure of the Cancer Only product posed significant mortality risk exposure."
+          action: "Documented solutions, obtained necessary approvals, and facilitated stakeholder communications to ensure a smooth closure."
+          result: "The product was successfully closed, mitigating risk exposure and maintaining compliance."
+
+- category: "Problem Solving"
+  skills:
+    - name: "Examine Information and Analyse Data"
+      strengths:
+        - "Critically evaluates data and information to identify issues"
+        - "Develops effective solutions"
+      achievements:
+        - title: "ELP Product Sales Discrepancy Analysis (2022)"
+          situation: "In 2022, the ELP product was underperforming in sales."
+          action: "Analysed sales and underwriting data, identified trends and patterns, and presented findings to the team."
+          result: "Provided actionable insights that informed strategic adjustments, helping to address the sales shortfall and improve product performance."
+    - name: "Document Facts Accurately"
+      strengths:
+        - "Writes fluently and logically when documenting facts"
+        - "Ensures clarity and precision in records and reports"
+      achievements:
+        - title: "GPAC Documentation for Cancer Only Product Closure (2023)"
+          situation: "In 2023, the closure of the Cancer Only product required comprehensive documentation to secure approvals from various committees."
+          action: "Compiled project data, articulated the rationale behind decisions, and ensured the documentation met all regulatory and compliance standards."
+          result: "Approval documents were successfully sanctioned, facilitating the closure of the Cancer Only product and demonstrating effective communication of complex information in writing."
+    - name: "Interpret Data Rationally"
+      strengths:
+        - "Quantifies issues and applies technology for data evaluation"
+        - "Supports objective and informed conclusions"
+      achievements:
+        - title: "HIV Data Trends Monitoring (2022)"
+          situation: "In 2022, there was a need to monitor and interpret HIV-related data trends effectively."
+          action: "Utilised Power BI to create dynamic dashboards, integrated data from multiple sources, and conducted quarterly reviews to assess key metrics."
+          result: "Power BI model provided clear insights into data trends, supporting informed decision-making and enhancing ability to refine underwriting questions based on data-driven insights."
+    - name: "Provide Insights to Improve Processes"
+      strengths:
+        - "Identifies key issues and offers intuitive judgements"
+        - "Enhances operational processes and outcomes"
+      achievements:
+        - title: "Compliance Issues Resolution (2023)"
+          situation: "In 2023, compliance issues related to grace periods and debit order changes needed resolution."
+          action: "Conducted market research, engaged with stakeholders, and identified industry standards to inform our approach."
+          result: "Solutions implemented ensured compliance with PPR guidelines, improved customer satisfaction, and streamlined amendment processes."
+
+    - name: "Generate Creative Ideas and Solutions"
+      strengths:
+        - "Produces innovative ideas and adopts original approaches"
+        - "Contributes to product development and process optimisation"
+      achievements:
+        - title: "Liberty Flexi Life Script Consistency Tool (2023)"
+          situation: "In 2023, ensuring consistency between scripts and product specifications was crucial for the successful launch of the Liberty Flexi Life product."
+          action: "Designed and implemented an Excel-based cross-referencing tool, incorporating dynamic features to track and update script content as needed."
+          result: "The tool ensured consistency and accuracy in the product rollout, contributing to a smooth launch and demonstrating ability to generate creative solutions that add business value."
+
+- category: "Influencing People"
+  skills:
+    - name: "Interact Effectively and Build Rapport with Others"
+      strengths:
+        - "Engages and networks effectively"
+        - "Establishes strong connections and fosters positive relationships"
+      achievements:
+        - title: "Risk Continuum Development (2023)"
+          situation: "In 2023, developing the risk continuum required input from multiple stakeholder groups including ECM, Bancassurance, DFS, and LP."
+          action: "Facilitated meetings, encouraged open communication, and built rapport with stakeholders to ensure their perspectives were considered."
+          result: "Collaborative efforts led to a comprehensive risk continuum document that reflected diverse viewpoints, enhancing stakeholder buy-in and ensuring well-informed decision-making."
+    - name: "Convince and Persuade Others"
+      strengths:
+        - "Persuades and negotiates to shape opinions and achieve objectives"
+        - "Enhances collaboration and support for projects and initiatives"
+      achievements:
+        - title: "Closure of Cancer Only Product Stakeholder Approval (2022)"
+          situation: "In 2022, the closure of the Cancer Only product required stakeholder approval due to high mortality risk exposure."
+          action: "Compiled detailed actuarial reports, presented risk assessments, and highlighted the benefits of closure for the organisation."
+          result: "Stakeholders approved the closure, mitigating risk exposure and aligning with strategic objectives."
+    - name: "Lead and Empower Individuals and Teams"
+      strengths:
+        - "Inspires and motivates individuals and teams"
+        - "Fosters a supportive and high-performing work environment"
+      achievements:
+        - title: "HIV+ Offering Implementation Leadership (2023)"
+          situation: "In 2023, the launch of the HIV+ offering required coordinated team efforts and effective leadership."
+          action: "Conducted training sessions, provided ongoing support, and encouraged team members to take ownership of their tasks."
+          result: "HIV+ offering was successfully launched, with team members feeling empowered and motivated."
+
+- category: "Adaptability"
+  skills:
+    - name: "Embrace Change and Adapt to New Challenges"
+      strengths:
+        - "Adjusts to new situations and manages uncertainty effectively"
+        - "Demonstrates resilience and flexibility in dynamic work environments"
+      achievements:
+        - title: "Policy and Product Launch Adaptation (2023)"
+          situation: "In 2023, the introduction of new products and regulatory requirements necessitated rapid adaptation."
+          action: "Updated policy documents, developed training materials, and conducted training sessions to ensure all team members were informed and prepared."
+          result: "Seamless adaptation to changes ensured compliance, supported successful product launches, and demonstrated resilience and flexibility."
+    - name: "Resolve Conflicts Effectively"
+      strengths:
+        - "Handles disputes calmly and seeks amicable resolutions"
+        - "Maintains a harmonious work environment and ensures team cohesion"
+      achievements:
+        - title: "Profit Margin Discrepancy Conflict Resolution (2022)"
+          situation: "In 2022, discrepancies in profit margins were causing conflicts between departments."
+          action: "Developed an Excel-based analysis tool to quantify the impact of profit margins, facilitated discussions between departments, and implemented agreed-upon solutions."
+          result: "Conflicts were resolved amicably, leading to more consistent premium pricing and improved interdepartmental relationships."
+    - name: "Work Collaboratively in Teams"
+      strengths:
+        - "Collaborates and encourages team contributions towards common goals"
+        - "Promotes a cooperative and inclusive culture"
+      achievements:
+        - title: "Cross-Functional Projects Participation (2021-2023)"
+          situation: "Between 2021 and 2023, participated in cross-functional projects such as the DFS rate reviews and the Allfinanz rulebook updates."
+          action: "Engaged in regular team meetings, shared insights and expertise, and coordinated efforts to ensure alignment and progress."
+          result: "Successful completion of these projects highlighted the effectiveness of our collaboration, fostering a cooperative and inclusive team culture."
+
+- category: "Results Orientation"
+  skills:
+    - name: "Meet Timescales and Deadlines"
+      strengths:
+        - "Consistently meets deadlines and maintains punctuality"
+        - "Ensures timely completion of tasks and projects"
+      achievements:
+        - title: "HIV+ Offering and Liberty Flexi Life Product Launch Timely Completion (2023)"
+          situation: "In 2023, responsible for delivering the HIV+ offering and the Liberty Flexi Life product launch within strict timelines."
+          action: "Planned project timelines meticulously, monitored progress regularly, and proactively addressed potential delays."
+          result: "Both projects were completed successfully within the deadlines, contributing to the organisation's growth and demonstrating reliability in meeting timescales."
+    - name: "Manage Tasks Systematically"
+      strengths:
+        - "Organises and prioritises tasks methodically"
+        - "Ensures efficient and effective completion, enhancing overall productivity"
+      achievements:
+        - title: "Multi-Project Task Management (2022)"
+          situation: "In 2022, managed multiple deliverables including policy updates, competitor analyses, and model developments."
+          action: "Utilised project management tools, created detailed task lists, and allocated specific time blocks for each project."
+          result: "Systematic approach enabled efficient completion of all tasks, maintained high-quality standards, and met all project deadlines."
+    - name: "Take Initiative and Action"
+      strengths:
+        - "Initiates projects and drives them to fruition with determination"
+        - "Demonstrates proactivity and leadership in achieving organisational goals"
+      achievements:
+        - title: "Data Analysis Tool Development Initiative (2022)"
+          situation: "In 2022, the rate review process required a more efficient data analysis tool."
+          action: "Took initiative to learn and utilise Power BI to create an interactive dashboard that automated data collection and analysis."
+          result: "Power BI model significantly improved the efficiency and accuracy of the rate review process, enhancing strategic decision-making."
+    - name: "Seize Opportunities and Pursue Goals"
+      strengths:
+        - "Identifies and capitalises on business opportunities"
+        - "Strives to achieve outstanding results and organisational growth through strategic initiatives"
+      achievements:
+        - title: "Liberty Flexi Life Digital Launch (2023)"
+          situation: "In 2023, Liberty Life aimed to expand its product offerings through digital channels to enhance customer experience and market reach."
+          action: "Coordinated with various departments, developed customer-centric scripts, and ensured compliance with regulatory standards. Created an Excel-based tool to cross-reference and align script content with product specifications."
+          result: "Successful launch increased market share and enhanced customer experience, demonstrating ability to seize opportunities and pursue strategic goals effectively."
+
+- category: "Strategic Thinking"
+  skills:
+    - name: "Conceptualise and Develop Strategies"
+      strengths:
+        - "Thinks long-term and anticipates trends"
+        - "Develops strategies that align with the organisation's vision and objectives"
+      achievements:
+        - title: "Risk Business Strategic Blueprint Development (2023)"
+          situation: "In 2023, the organisation needed a strategic blueprint to guide future risk business initiatives."
+          action: "Facilitated stakeholder engagement, conducted comprehensive data analyses, and integrated product features into the strategic plan."
+          result: "Strategic blueprint provided a clear roadmap for future initiatives, ensuring alignment with the organisation's vision and demonstrating ability to conceptualise and develop effective strategies."
+
+- category: "Professional Development"
+  skills:
+    - name: "Continuous Learning and Skill Enhancement"
+      strengths:
+        - "Committed to continuous learning and skill enhancement"
+        - "Applies new knowledge and skills to improve job performance and project outcomes"
+      achievements:
+        - title: "Technical Skills Upskilling (2022)"
+          situation: "The evolving demands of actuarial analysis and data management required me to upskill continuously."
+          action: "Enrolled in and completed comprehensive courses in VBA, Python, and Power BI, and undertook critical thinking training. Applied these skills to automate processes, develop advanced models, and enhance data visualization capabilities."
+          result: "Enhanced technical proficiency led to more efficient project execution, improved data analysis, and higher-quality outcomes."
+    
+- category: "Professionalism"
+  skills:
+    - name: "Consistently Exhibit Professionalism"
+      strengths:
+        - "Maintains high level of professionalism in everyday work"
+        - "Reflects strong understanding of industry standards and regulations"
+      achievements:
+        - title: "Regulatory Compliance and Ethical Standards Adherence"
+          situation: "Role required strict adherence to regulatory standards and ethical guidelines."
+          action: "Ensured compliance with policies such as PPR and PoPIA, participated in mandatory training, and maintained transparent communication with stakeholders."
+          result: "Consistent professionalism fostered trust and reliability, contributing to a positive reputation within the organisation and among clients, and ensured all projects met the highest ethical and regulatory standards."
+
+- category: "Leadership and Empowerment"
+  skills:
+    - name: "Empower and Inspire Teams"
+      strengths:
+        - "Motivates and empowers team members"
+        - "Fosters a high-performing and engaged work environment"
+      achievements:
+        - title: "HIV+ Offering Implementation Leadership (2023)"
+          situation: "In 2023, the launch of the HIV+ offering required coordinated team efforts and effective leadership."
+          action: "Conducted training sessions, provided ongoing support, and encouraged team members to take ownership of their tasks."
+          result: "HIV+ offering was successfully launched, with team members feeling empowered and motivated."
+
+- category: "Technical Proficiency"
+  skills:
+    - name: "Advanced Excel and Modelling"
+      strengths:
+        - "Expert-level skills in Excel for complex modelling, data analysis, and automation tasks"
+        - "Enhances efficiency and effectiveness in project execution"
+      achievements:
+        - title: "Premium Pricing Analysis Model Development (2022)"
+          situation: "In 2022, inconsistent pricing of premiums was affecting profit margins."
+          action: "Designed an Excel-based analysis tool that calculated the influence of profit margins on premiums, identifying areas for adjustment."
+          result: "The tool provided actionable insights that led to more consistent premium pricing, enhancing profitability and demonstrating advanced proficiency in Excel and modelling."
+    - name: "Data Visualization with Power BI"
+      strengths:
+        - "Creates dynamic dashboards and visualisations with Power BI"
+        - "Facilitates data-driven insights and strategic planning"
+      achievements:
+        - title: "Power BI Model Development (2023)"
+          situation: "In 2023, there was a need for advanced data visualization tools to support strategic initiatives."
+          action: "Utilised Power BI to design interactive dashboards, integrated data from various sources, and ensured data accuracy through rigorous testing."
+          result: "Power BI models provided actionable insights, facilitated data-driven decisions, and significantly improved the accessibility and interpretation of key metrics for stakeholders."
+    - name: "Programming with Python and SQL"
+      strengths:
+        - "Utilises Python and SQL to streamline workflows and enhance data management capabilities"
+        - "Improves data processing and analysis efficiency"
+      achievements:
+        - title: "Data Extraction and Analysis Tools Development (2023)"
+          situation: "In 2023, the organisation required efficient data extraction and analysis tools to support strategic projects."
+          action: "Developed Python scripts to automate competitor comparisons, significantly reducing processing time, and wrote SQL queries to extract and manage data for Power BI models."
+          result: "Programming initiatives improved data accuracy, increased processing efficiency, and provided robust support for strategic decision-making, demonstrating technical proficiency in Python and SQL."

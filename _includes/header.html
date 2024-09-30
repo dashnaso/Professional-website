@@ -1,0 +1,28 @@
+<!-- _includes/header.html -->
+<header>
+  <div class="container">
+    <nav class="nav" role="navigation" aria-label="Main Navigation">
+      <div class="logo">
+        <a href="{{ '/' | relative_url }}">
+          <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Naso Bantubani" width="60" height="60">
+          <div class="logo-text">
+            <h1>Naso Bantubani</h1>
+            <p>Actuarial Innovator | Data Visionary</p>
+          </div>
+        </a>
+      </div>
+      <button class="nav-toggle" aria-label="Open navigation menu.">
+        <span class="hamburger"></span>
+      </button>
+      <ul class="nav-menu">
+        <li><a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
+        <li><a href="{{ '/about/' | relative_url }}" class="{% if page.url == '/about/' %}active{% endif %}">About</a></li>
+        <li><a href="{{ '/skills/' | relative_url }}" class="{% if page.url == '/skills/' %}active{% endif %}">Skills</a></li>
+        <li><a href="{{ '/projects/' | relative_url }}" class="{% if page.url == '/projects/' %}active{% endif %}">Projects</a></li>
+        <li><a href="{{ '/experience/' | relative_url }}" class="{% if page.url == '/experience/' %}active{% endif %}">Experience</a></li>
+        <li><a href="{{ '/contact/' | relative_url }}" class="{% if page.url == '/contact/' %}active{% endif %}">Contact</a></li>
+        <li><a href="{{ '/assets/files/Bantubani_Naso_CV_Actuarial_2024.pdf' | relative_url }}" target="_blank">Download CV</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,12 @@
+# _config.yml
+title: "Naso Bantubani - Actuarial Innovator and Data Visionary"
+email: "nasobantubani@gmail.com"
+description: "Actuarial Professional specializing in transforming risk into opportunity."
+baseurl: ""  # Leave empty unless your site is in a subdirectory
+url: "https://yourusername.github.io"  # Replace with your GitHub Pages URL or custom domain
+author: "Naso Bantubani"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap

@@ -1,0 +1,48 @@
+# _data/experience.yml
+
+jobs:
+  - position: "Specialist: Actuarial Secondary, Risk Product Management"
+    company: "Liberty Group Limited"
+    location: "Johannesburg, South Africa"
+    date: "September 2023 – Present"
+    responsibilities:
+      - "Ensured seamless operations during manager's four-month leave, maintaining continuity and operational excellence."
+      - "Led product adaptation and successful launches of Flexi Life and Flexi Funeral products through digital channels."
+      - "Simplified underwriting processes, securing necessary approvals and enhancing efficiency."
+      - "Directed data analysis for the persistency improvement project using Power BI."
+      - "Authored high-impact committee papers, effectively communicating complex information to support strategic initiatives."
+
+  - position: "Specialist: Actuarial Analyst, Risk Product Management"
+    company: "Liberty Group Limited"
+    location: "Johannesburg, South Africa"
+    date: "January 2021 – August 2023"
+    responsibilities:
+      - "Drove Major Project Launches: Played a pivotal role in the successful launch and management of several key projects, including the development of an inclusive life solution for HIV+ individuals, enhancing product diversity and market reach."
+      - "Delivered Operational Efficiency and Customer Satisfaction: Led initiatives that resulted in significant operational efficiency gains and improved customer satisfaction by developing automated models to streamline claims and servicing processes."
+      - "Resolved Complex Queries: Efficiently resolved over 50 ad hoc queries by providing thorough analysis and actionable recommendations, supporting business objectives and enhancing service quality."
+      - "Conducted Data Analytics for Business Cases: Performed in-depth data analytics to support business case analyses for new product initiatives, ensuring data-driven decision-making and strategic planning."
+      - "Collaborated Across Teams: Frequently collaborated with cross-functional teams to resolve business problems and implement product enhancements, fostering a collaborative and innovative work environment."
+      - "Mentored and Developed Talent: Managed and mentored VAC (Vacation) students, providing guidance on actuarial concepts and fostering their professional development, contributing to a knowledgeable and skilled team."
+
+  - position: "Actuarial Analyst, Model Development (Consulting for Old Mutual)"
+    company: "The Shard"
+    location: "Cape Town, South Africa"
+    date: "February 2019 – December 2019"
+    responsibilities:
+      - "Developed IFRS 17 Compliant Models: Developed and validated Prophet models for Old Mutual's IFRS 17 implementation, facilitating a successful migration from legacy systems to new IFRS 17 compliant valuation models."
+      - "Ensured Transparency and Auditability: Contributed to comprehensive model documentation, ensuring transparency and auditability, which supported regulatory compliance and internal governance standards."
+
+  - position: "Intern"
+    company: "FNB"
+    location: "Johannesburg, South Africa"
+    date: "January 2019 – February 2019"
+    responsibilities:
+      - "Conducted SQL Data Analysis: Performed SQL data analysis for the retail banking unit, extracting valuable insights to support business strategies and decision-making processes."
+      - "Developed Senior Management Presentations: Created detailed presentations used by senior management, demonstrating ability to distil complex data into clear and actionable insights for stakeholders."
+
+key_achievements:
+  - "Promotion to Specialist: Actuarial Secondary in 2023 in recognition of outstanding performance and leadership within the Risk Product Management team."
+  - "Consistently High Performance Ratings: Maintained top performance ratings of 'Exceptionally Achieved' or 'Fully Achieved' from 2021 to 2023, reflecting dedication and excellence in all responsibilities."
+  - "Successful Product Launches: Led multiple successful product launches, including the Liberty Flexi Life and Flexi Funeral products, which expanded the company’s market offerings and enhanced customer satisfaction."
+  - "Advanced Technical Proficiency: Developed and implemented advanced Power BI models and automated Excel tools that significantly improved data analysis capabilities and operational efficiency."
+  - "Effective Risk Management: Played a crucial role in risk management initiatives, ensuring compliance with industry regulations and maintaining robust internal controls."
